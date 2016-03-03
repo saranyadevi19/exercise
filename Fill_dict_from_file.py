@@ -10,7 +10,7 @@ for line3 in f3:
     reader3 = line3.split('|')
     key = int(reader3[0])
     value = reader3[1]
-    d[key] = value
+    d[key] = value #This parse the file and keep it in dictionary(like map)
 f3.close()
 print "Length : %d" % len (d)
 
