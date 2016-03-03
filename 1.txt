@@ -1,5 +1,0 @@
-1|6705|SW|447|C/A "VITA" kutoka kwenye gari KAMPUNI    |||RFD|E|0|
-2|6706|CA|448|TIPUS DE COTXE O MEM . Identificació, REQ     |||RFD|E|0|
-3|6707|CZ|448|TYP auto nebo CUST . ID , REQ     |||RFD|E|0|
-4|6711|SW|448|CAR TYPE AU cust . ID , req     |||RFD|E|0|
-5|6712|CA|448|AQUEST COTXE O TIPUS DE IDENTIFICACIÓ     |||RFD|E|0|
